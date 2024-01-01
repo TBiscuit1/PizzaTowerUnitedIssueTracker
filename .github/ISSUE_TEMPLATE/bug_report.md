@@ -7,7 +7,7 @@ assignees: TBiscuit1
 
 ---
 
-[ ] - My clicking this little box, I confirm that I verified the issue happens in vanilla PTU and not PTUCE
+- [ ] - My clicking this little box, I confirm that I verified the issue happens in vanilla PTU and not PTUCE
 
 **Describe the bug**
 A clear and concise description of what the bug is.
