@@ -1,13 +1,13 @@
 ---
 name: Bug report
-about: Create a report to help us improve
-title: ''
+about: Create a report to help us improve ptu
+title: "[BUG] - PUT TITLE HERE!"
 labels: Bug
 assignees: TBiscuit1
 
 ---
 
-- [ ] - My clicking this little box, I confirm that I verified the issue happens in vanilla PTU and not PTUCE
+# DO NOT REPORT PTUCE ISSUES HERE OTHERWISE YOUR ISSUE WILL BE CLOSED!!!
 
 **Describe the bug**
 A clear and concise description of what the bug is.
